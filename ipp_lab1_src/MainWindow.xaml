@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ipp_lab1_src"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" ResizeMode="CanResize"
+        Title="Rectangle drawer" Height="450" Width="800" ResizeMode="CanResize"
         SizeChanged="Window_SizeChanged">
     <Grid>
         <Canvas x:Name="canvas"/>
